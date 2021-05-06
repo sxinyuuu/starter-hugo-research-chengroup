@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 陈伟
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 遥感与地理系 副教授
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 中国矿业大学（北京）
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: 研究方向主要有：气溶胶遥感、气溶胶粒子性质建模、大气污染研究、地表环境遥感.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+研究方向:
+- 脆弱区生态环境遥感
+- 大气环境遥感及应用
+- 卫星遥感辐射定标
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 大气与海洋科学系 访问学者（导师：李占清教授）
+    institution: 马里兰大学
+    year: 2011.10~2012.10
+  - course: 地球与空间科学学院 博士（导师：晏磊教授）
+    institution: 北京大学
+    year: 2008.09~2013.07
+  - course: 地理学与遥感科学学院 学士
+    institution: 北京师范大学
+    year: 2004.08~2008.07
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
