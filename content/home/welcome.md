@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "陈伟"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -16,5 +16,15 @@ advanced:
   css_style:
   css_class:
 ---
+陈伟: 副教授，博士，九三学社社员，硕士/博士生导师
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+中国矿业大学（北京） 地球科学与测绘工程学院 遥感与地理信息系 副主任
+
+中国科普作家协会应急安全与减灾科普专业委员会委员
+
+办公室：中国矿业大学（北京） 综合楼605室
+
+电话：010-62339335/13811950643
+
+邮箱：chenw@cumtb.edu.cn
+   chenweibnu@126.com
