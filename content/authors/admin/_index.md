@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: 'chenw@cumtb.edu.cn'
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: 百度百科
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://baike.baidu.com/item/%E9%99%88%E4%BC%9F/53479405?fr=aladdin
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "chenw@cumtb.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -67,7 +67,21 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+研究兴趣：
+脆弱区生态环境遥感、大气环境遥感及应用、卫星遥感辐射定标
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+招生专业：
+  2021级拟招生5-6人
+  学术型：
+大地测量学与测量工程:081601
+摄影测量与遥感:081602
+地图制图学与地理信息工程:081603
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+  专业型：
+测绘工程：085215
+
+学术服务：
+2018.10 ~ 2019.3 International Journal of Remote Sensing, Guest Editor
+2016 ~ 今 Committee Member of Working Groups of ISPRS Commission III (Remote Sensing of Atmospheric Environment)
+2013 ~ 今：担任以下期刊审稿人
+Environmental International, Atmospheric Environment, Air Quality, Atmosphere and Health, Remote Sensing, Remote Sensing Letters, European Journal of Remote Sensing, International Journal of Environmental Research and Public Health, Atmospheric Pollution Research, International Journal of Remote Sensing, Science of the Total Environment
