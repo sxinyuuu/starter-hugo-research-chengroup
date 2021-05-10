@@ -27,4 +27,3 @@ advanced:
 电话：010-62339335/13811950643
 
 邮箱：chenw@cumtb.edu.cn
-   chenweibnu@126.com
