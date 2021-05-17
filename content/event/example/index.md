@@ -1,20 +1,19 @@
 ---
-title: Example Event
+title:2020全国测绘科学与技术博士生学术论坛
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url:https://www.baidu.com/link?url=qdEBvaz_MQi2cdx6875SQ5JUjomwy8c0wlUd5JbxYzUaUFQ5BvuOyaycALyy1yBLCdRGDFem7pIX8OP7B0ug2HmThBzNxGp-EEWZrL3GhUGuAbauphgMyK77yIGws0ARU3_msaGodL0LsVBNC8Mvb_&wd=&eqid=b0cacacf0030af4f0000000260a26016
 
 location: Wowchemy HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+ # street: 450 Serra Mall
+  city: 西安
+  region: CN
+  # postcode: '94305'
+  country: 中国
 
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
+summary: 2020全国测绘科学与技术博士生学术论坛
+abstract: 课题组李广超，毕鸿儒，张学鹏，王哲，宋歌，徐雅梦六位同学参加2020全国测绘科学与技术博士生学术论坛
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2030-06-01T13:00:00Z"
