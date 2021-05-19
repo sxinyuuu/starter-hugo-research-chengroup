@@ -23,13 +23,13 @@ organizations:
 
 education:
   courses:
-  - course: 大气与海洋科学系 <br/> 访问学者（导师：李占清教授）
+  - course: 大气与海洋科学系  访问学者（导师：李占清教授）
     institution: 马里兰大学
     year: 2011.10~2012.10
-  - course: 地球与空间科学学院 <br/> 博士（导师：晏磊教授）
+  - course: 地球与空间科学学院  博士（导师：晏磊教授）
     institution: 北京大学
     year: 2008.09~2013.07
-  - course: 地理学与遥感科学学院 <br/> 学士
+  - course: 地理学与遥感科学学院  学士
     institution: 北京师范大学
     year: 2004.08~2008.07
 
