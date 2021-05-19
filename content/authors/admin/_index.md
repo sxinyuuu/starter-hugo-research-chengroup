@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- 老师
 ---
 研究兴趣：
 脆弱区生态环境遥感、大气环境遥感及应用、卫星遥感辐射定标
