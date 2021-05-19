@@ -71,7 +71,7 @@ user_groups:
 测绘工程：085215
 
 学术服务：
-2018.10 ~ 2019.3 International Journal of Remote Sensing, Guest Editor
-2016 ~ 今 Committee Member of Working Groups of ISPRS Commission III (Remote Sensing of Atmospheric Environment)
-2013 ~ 今：担任以下期刊审稿人
+- 2018.10 ~ 2019.3 International Journal of Remote Sensing, Guest Editor
+- 2016 ~ 今 Committee Member of Working Groups of ISPRS Commission III (Remote Sensing of Atmospheric Environment)
+- 2013 ~ 今：担任以下期刊审稿人
 Environmental International, Atmospheric Environment, Air Quality, Atmosphere and Health, Remote Sensing, Remote Sensing Letters, European Journal of Remote Sensing, International Journal of Environmental Research and Public Health, Atmospheric Pollution Research, International Journal of Remote Sensing, Science of the Total Environment
