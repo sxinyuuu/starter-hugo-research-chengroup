@@ -17,4 +17,6 @@ education:
       year: 2014
 email: 2014930449@qq.com
 superuser: false
+user_groups:
+  - 2020级
 ---
