@@ -1,6 +1,6 @@
 ---
 title: 时新宇
-role: Professor of Artificial Intelligence
+role: 研究生
 avatar_filename: null
 bio: ""
 interests:
