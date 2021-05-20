@@ -13,7 +13,7 @@ education:
   courses:
     - course: 测绘工程
       institution: 山东农业大学
-      year: 2014
+      year: 2016
 email: jiao970924@126.com
 superuser: false
 ---
