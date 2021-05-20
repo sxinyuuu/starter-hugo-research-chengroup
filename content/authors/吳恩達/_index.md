@@ -4,9 +4,7 @@ role: Professor of Artificial Intelligence
 avatar_filename: null
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 植被覆盖度
 social:
   - icon: envelope
     icon_pack: fas
