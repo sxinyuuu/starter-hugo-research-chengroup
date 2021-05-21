@@ -1,6 +1,6 @@
 ---
 title: 杨澜
-role: 研究生
+role: 地图制图学与地理信息工程
 avatar_filename: 杨澜.png
 bio: WROF气象模型
 social:
@@ -14,7 +14,7 @@ education:
   courses:
     - course: 遥感科学技术
       institution: 中国矿业大学（北京）
-      year: 2014
+      year: 2016
 email: 2014930449@qq.com
 superuser: false
 user_groups:
