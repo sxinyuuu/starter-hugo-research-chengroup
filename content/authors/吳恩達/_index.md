@@ -1,6 +1,6 @@
 ---
 title: 时新宇
-role: 研究生
+role: 测绘工程
 avatar_filename: null
 bio: ""
 interests:
