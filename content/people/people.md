@@ -21,7 +21,7 @@ content:
   - 2019级
   - 2018级
   - 毕业生
-  - Alumni
+  - 博士生
 design:
   show_interests: false
   show_role: true
