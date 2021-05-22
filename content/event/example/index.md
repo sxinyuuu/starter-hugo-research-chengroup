@@ -1,57 +1,34 @@
 ---
-title: Example Event
-
+abstract: 课题组王恒阳，徐雅梦两位同学参加第二期全国“地球空间大数据与云计算”研讨会。本次会议主要内容为Google Earth
+  Engine(GEE)学习。GEE是一种行星尺度地理空间分析的云计算平台，它基于Google云计算的强大能力广泛用于自然灾害，水资源管理，气候检测和环境保护等社会问题。
+slides: null
+url_pdf: ""
+summary: An example event.
+title: 第二期全国“地球空间大数据与云计算”研讨会
+location: 北京
+date: 2019-05-24T13:00:00.000Z
+date_end: 2019-05-24T15:00:00.000Z
+all_day: true
 event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+event_url: http://www.slrss.cn/tzgg/202006/t20200612_564503.html
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+publishDate: 2021-05-22T00:00:00.000Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: null
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
-
+  filename: 20190524.jpg
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
 ---
 
 Slides can be added in a few ways:
