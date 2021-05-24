@@ -4,7 +4,7 @@ role: 测绘工程
 avatar_filename: null
 bio: ""
 interests:
-  - 植被覆盖度
+  - 植被覆盖度计算
 social:
   - icon: envelope
     icon_pack: fas
