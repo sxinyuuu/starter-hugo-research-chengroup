@@ -9,7 +9,7 @@ location: 北京
 date: 2019-05-24T13:00:00.000Z
 date_end: 2019-05-24T15:00:00.000Z
 all_day: true
-event: Wowchemy Conference
+event: 学术会议
 event_url: http://www.slrss.cn/tzgg/202006/t20200612_564503.html
 featured: false
 authors: []
