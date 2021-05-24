@@ -19,7 +19,7 @@ draft: false
 featured: false
 image:
   filename: 20190518.jpg
-  focal_point: Smart
+  focal_point: Right
   preview_only: false
   caption: 20190518.jpg
 ---
