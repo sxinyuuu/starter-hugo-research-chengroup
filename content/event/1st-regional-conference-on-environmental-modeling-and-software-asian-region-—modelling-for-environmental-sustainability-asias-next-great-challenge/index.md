@@ -21,4 +21,5 @@ image:
   filename: 20190518.jpg
   focal_point: Smart
   preview_only: false
+  caption: 20190518.jpg
 ---
