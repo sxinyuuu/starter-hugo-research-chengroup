@@ -39,6 +39,6 @@ summary: The backward trajectory analysis indicated that most of the high BC
   can be used to set appropriate atmospheric pollution control measures for
   these central provinces and to increase the accuracy of air quality
   forecasting.
-date: 2018-01-01T00:00:00Z
-publishDate: 2017-01-01T00:00:00Z
+date: 2018-01-01T00:00:00.000Z
+publishDate: 2017-01-01T00:00:00.000Z
 ---
