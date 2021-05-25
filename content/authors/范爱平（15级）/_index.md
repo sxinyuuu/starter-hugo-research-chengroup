@@ -16,3 +16,4 @@ superuser: false
 user_groups:
   - 毕业生
 ---
+邮箱：fap_fanaiping@163.com
