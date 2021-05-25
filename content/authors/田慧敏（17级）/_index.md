@@ -16,3 +16,4 @@ superuser: false
 user_groups:
   - 毕业生
 ---
+邮箱：tianhuimin_0123@163.com
