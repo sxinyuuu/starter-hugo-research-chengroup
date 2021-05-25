@@ -12,3 +12,4 @@ superuser: false
 user_groups:
   - 毕业生
 ---
+邮箱：aijia1712@126.com
