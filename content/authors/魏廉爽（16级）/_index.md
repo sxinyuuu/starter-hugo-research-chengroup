@@ -16,3 +16,4 @@ superuser: false
 user_groups:
   - 毕业生
 ---
+邮箱：wls920306@126.com
