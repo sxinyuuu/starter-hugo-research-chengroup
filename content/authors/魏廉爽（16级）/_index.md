@@ -12,7 +12,7 @@ social:
     icon_pack: fas
     icon: envelope
 email: wls920306@126.com
-superuser: false
+superuser: true
 user_groups:
   - 毕业生
 ---
