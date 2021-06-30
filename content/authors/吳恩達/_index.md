@@ -1,7 +1,6 @@
 ---
 title: 时新宇
 role: 测绘工程
-avatar_filename: null
 bio: ""
 interests:
   - 植被覆盖度计算
