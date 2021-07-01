@@ -11,6 +11,6 @@ publishDate: 2021-05-24T11:41:43.308Z
 draft: false
 featured: false
 image:
-  focal_point: Smart
-  preview_only: false
+  focal_point: Right
+  preview_only: true
 ---
