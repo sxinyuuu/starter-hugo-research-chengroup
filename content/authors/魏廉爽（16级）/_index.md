@@ -1,7 +1,6 @@
 ---
 title: 魏廉爽（16级）
 role: 测绘工程
-avatar_filename: weilianshuang.jpg
 bio: 定量遥感
 interests:
   - 定量遥感

@@ -1,7 +1,6 @@
 ---
 title: 徐雅梦
 role: 测绘工程
-avatar_filename: xuyameng.jpg
 bio: ""
 interests:
   - 深度学习提取蔬菜大棚

@@ -1,7 +1,6 @@
 ---
 title: 毕鸿儒
 role: 摄影测量与遥感
-avatar_filename: bihongru.jpg
 social:
   - display:
       header: false

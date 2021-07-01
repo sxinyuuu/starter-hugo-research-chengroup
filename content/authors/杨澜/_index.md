@@ -1,7 +1,6 @@
 ---
 title: 杨澜
 role: 地图制图学与地理信息工程
-avatar_filename: 杨澜.png
 bio: WROF气象模型
 social:
   - display:

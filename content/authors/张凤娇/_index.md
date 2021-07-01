@@ -1,7 +1,6 @@
 ---
 title: 张凤娇
 role: 大地测量学
-avatar_filename: zhangfengjiao.jpg
 bio: 定量遥感
 social:
   - display:

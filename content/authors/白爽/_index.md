@@ -1,7 +1,6 @@
 ---
 title: 白爽
 role: 测绘工程
-avatar_filename: baishuang.jpg
 bio: ""
 social:
   - display:

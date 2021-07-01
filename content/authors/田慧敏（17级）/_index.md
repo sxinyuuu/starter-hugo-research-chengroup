@@ -1,7 +1,6 @@
 ---
 title: 田慧敏（17级）
 role: 地图制图学与地理信息工程
-avatar_filename: tianhuimin.jpg
 bio: 大气环境遥感
 interests:
   - 大气环境遥感

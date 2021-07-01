@@ -1,7 +1,6 @@
 ---
 title: 王哲
 role: 大地测量学与测绘工程
-avatar_filename: wangzhe.jpg
 interests:
   - 广西自然保护区生态环境遥感监测与技术示范
 social:

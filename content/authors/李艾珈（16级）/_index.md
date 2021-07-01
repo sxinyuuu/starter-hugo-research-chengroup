@@ -1,6 +1,5 @@
 ---
 title: 李艾珈（16级）
-avatar_filename: liaijia.jpg
 bio: GLASS数据相关应用分析研究
 social:
   - display:

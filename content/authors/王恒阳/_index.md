@@ -1,7 +1,6 @@
 ---
 title: 王恒阳
 role: 测绘工程
-avatar_filename: wanghengyang.jpg
 social:
   - display:
       header: false

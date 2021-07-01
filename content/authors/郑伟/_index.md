@@ -1,7 +1,6 @@
 ---
 title: 郑伟
 role: 测绘工程
-avatar_filename: zhengwei.jpg
 social:
   - display:
       header: false

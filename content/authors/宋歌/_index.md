@@ -1,7 +1,6 @@
 ---
 title: 宋歌
 role: 测绘工程
-avatar_filename: songge.jpg
 bio: 典型资源环境要素识别提取与定量遥感技术
 social:
   - display:

@@ -1,7 +1,6 @@
 ---
 title: 朱玉娇
 role: 大地测量学与测绘工程
-avatar_filename: zhuyujiao.jpg
 social:
   - display:
       header: false

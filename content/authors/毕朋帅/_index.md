@@ -1,7 +1,6 @@
 ---
 title: 毕朋帅
 role: 测绘工程
-avatar_filename: bipengshuai.jpg
 social:
   - display:
       header: false

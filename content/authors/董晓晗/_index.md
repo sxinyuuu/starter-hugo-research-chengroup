@@ -1,7 +1,6 @@
 ---
 title: 董晓晗
 role: 测绘工程
-avatar_filename: dongxiaohan.jpg
 interests:
   - 应用多源卫星获取高分辨率土地卫星土地利用类型资料
 social:
