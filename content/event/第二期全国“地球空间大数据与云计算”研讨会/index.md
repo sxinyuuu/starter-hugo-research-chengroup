@@ -25,8 +25,8 @@ publishDate: 2021-05-22T00:00:00.000Z
 tags: []
 projects: null
 image:
+  caption: ''
   focal_point: Right
-  preview_only: true
   
 url_code: ""
 ---
