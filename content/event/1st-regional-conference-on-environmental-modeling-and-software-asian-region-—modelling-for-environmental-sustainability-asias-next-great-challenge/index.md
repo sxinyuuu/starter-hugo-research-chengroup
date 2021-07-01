@@ -19,4 +19,6 @@ featured: false
 image:
   focal_point: Right
   preview_only: true
+  
+url_code: ""
 ---
