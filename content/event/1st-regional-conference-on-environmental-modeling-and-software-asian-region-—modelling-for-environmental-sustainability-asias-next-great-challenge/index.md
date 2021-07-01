@@ -17,8 +17,6 @@ publishDate: 2021-05-22T12:53:17.631Z
 draft: false
 featured: false
 image:
-  filename: 20190518.jpg
   focal_point: Right
   preview_only: true
-  caption: 20190518.jpg
 ---

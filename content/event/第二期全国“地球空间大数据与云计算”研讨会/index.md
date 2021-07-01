@@ -25,8 +25,6 @@ publishDate: 2021-05-22T00:00:00.000Z
 tags: []
 projects: null
 image:
-  caption: 20190524.jpg
   focal_point: Right
-  filename: 20190524.jpg
-url_code: ""
+  preview_only: true
 ---

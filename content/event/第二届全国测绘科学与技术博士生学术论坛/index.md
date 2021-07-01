@@ -11,7 +11,6 @@ publishDate: 2021-05-24T11:41:43.308Z
 draft: false
 featured: false
 image:
-  filename: 20201116.jpg
   focal_point: Smart
   preview_only: false
 ---
