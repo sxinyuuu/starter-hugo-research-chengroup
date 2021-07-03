@@ -19,11 +19,7 @@ publication: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
-url_dataset: ""
-url_project: ""
 publication_short: International Journal of Remote Sensing
-url_source: ""
-url_video: ""
 title: "Aerosol-induced changes in sky polarization pattern: potential hint on
   applications in polarimetric remote sensing"
 doi: ""
@@ -31,14 +27,6 @@ featured: false
 tags:
   - Source Themes
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-  filename: null
 date: 2015-09-01T00:00:00.000Z
-url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
-url_code: ""
 ---
