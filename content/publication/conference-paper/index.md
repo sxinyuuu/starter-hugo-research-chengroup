@@ -4,7 +4,7 @@ title: "Black Carbon Aerosol in the Industrial City of Xuzhou, China: Temporal
 publication_types:
   - "2"
 authors:
-  - admin
+  - 陈伟
   - 田慧敏（17级）
 doi: ""
 publication: In *  Aerosol and Air Quality Research *
