@@ -3,4 +3,4 @@ title: 2018年团建
 date: 2021-05-24T12:49:28.784Z、
 ---
 
-{{< gallery album="<2018>" >}}
+{{< gallery album="eight" >}}
