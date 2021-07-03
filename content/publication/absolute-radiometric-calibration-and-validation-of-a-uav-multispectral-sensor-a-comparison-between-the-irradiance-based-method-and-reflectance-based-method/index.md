@@ -5,7 +5,7 @@ title: "Absolute radiometric calibration and validation of a UAV multispectral
 publication_types:
   - "2"
 authors:
-  - admin
+  - 陈伟
   - 王恒阳
 publication_short: Journal of Spatial Science
 abstract: Through an unmanned vehicle payload calibration campaign experiments,
