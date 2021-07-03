@@ -3,7 +3,7 @@ abstract: 课题组王恒阳，徐雅梦两位同学参加第二期全国“地�
   Engine(GEE)学习。GEE是一种行星尺度地理空间分析的云计算平台，它基于Google云计算的强大能力广泛用于自然灾害，水资源管理，气候检测和环境保护等社会问题。
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: 第二期全国“地球空间大数据与云计算”研讨会
 title: 第二期全国“地球空间大数据与云计算”研讨会
 location: 北京
 date: 2019-05-24T13:00:00.000Z
