@@ -23,7 +23,6 @@ abstract: Black carbon (BC) aerosol has a low content in the atmosphere;
   BC ARF calculated by the empirical formula method is lower than that
   calculated by using the blue-sky albedo method.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
@@ -37,23 +36,9 @@ projects:
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
-url_dataset: "#"
-url_project: ""
 publication_short: International of Journal Remote Sensing
-url_source: "#"
-url_video: "#"
 date: 2019-04-07T00:00:00.000Z
-url_slides: ""
-links:
-  - name: Custom Link
-    url: http://example.org
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
-  focal_point: ""
-  preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: "#"
-url_code: "#"
 doi: ""
 ---
 
