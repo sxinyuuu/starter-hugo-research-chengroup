@@ -1,6 +1,6 @@
 ---
 title: 朱玉娇
-role: 大地测量学与测绘工程
+role: 地图制图学与地理信息工程
 social:
   - display:
       header: false

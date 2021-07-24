@@ -1,5 +1,6 @@
 ---
 title: 李艾珈（16级）
+role: 测绘工程
 bio: GLASS数据相关应用分析研究
 social:
   - display:
