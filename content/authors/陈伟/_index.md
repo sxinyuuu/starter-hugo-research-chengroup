@@ -1,6 +1,6 @@
 ---
 title: 陈伟
-role: 遥感与地理系 副教授
+role: 遥感与地理信息系 副教授
 social:
   - icon: envelope
     icon_pack: fas

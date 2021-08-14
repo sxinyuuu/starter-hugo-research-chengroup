@@ -1,6 +1,6 @@
 ---
 title: 张凤娇
-role: 大地测量学
+role: 大地测量学与测量工程
 bio: 定量遥感
 social:
   - display:
