@@ -3,7 +3,9 @@ title: On the negative polarization's effects at top of atmosphere
 publication_types:
   - "2"
 authors:
-  - 陈伟;徐雅梦;傅钦民
+  - 陈伟
+  - 徐雅梦
+  - 傅钦民
 draft: false
 featured: false
 image:
