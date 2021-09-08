@@ -6,7 +6,7 @@ publication_types:
 authors:
   - 陈伟
   - 李艾珈（16级）
-doi: 10.1007/s11356-021-12625-2.
+doi: 10.1007/s11356-021-12625-2
 publication: " Environmental Science and Pollution Research"
 draft: false
 featured: false
