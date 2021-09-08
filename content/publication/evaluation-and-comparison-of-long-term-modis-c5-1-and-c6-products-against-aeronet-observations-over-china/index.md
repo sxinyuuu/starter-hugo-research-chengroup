@@ -4,8 +4,8 @@ title: Evaluation and Comparison of Long-Term MODIS C5.1 and C6 Products against
 publication_types:
   - "2"
 authors:
-  - 陈伟
   - 范爱平（15级）
+  - 陈伟
 publication: Remote Sensing
 draft: false
 featured: false
