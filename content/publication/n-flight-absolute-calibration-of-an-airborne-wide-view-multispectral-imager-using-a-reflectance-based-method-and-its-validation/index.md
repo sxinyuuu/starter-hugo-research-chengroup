@@ -1,5 +1,5 @@
 ---
-title: n-flight absolute calibration of an airborne wide-view multispectral
+title: In-flight absolute calibration of an airborne wide-view multispectral
   imager using a reflectance-based method and its validation
 publication_types:
   - "1"
