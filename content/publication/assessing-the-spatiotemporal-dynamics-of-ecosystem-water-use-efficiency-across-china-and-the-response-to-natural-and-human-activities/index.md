@@ -6,7 +6,7 @@ publication_types:
 authors:
   - 李广超
   - 陈伟
-doi: 10.1016/j.ecolind.2021.107680.
+doi: 10.1016/j.ecolind.2021.107680
 publication: Ecological Indicators
 draft: false
 featured: false
