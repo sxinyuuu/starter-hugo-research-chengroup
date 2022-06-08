@@ -1,5 +1,5 @@
 ---
-title: 白爽
+title: 白爽（18级）
 role: 测绘工程
 bio: ""
 social:
@@ -11,6 +11,6 @@ social:
 email: 1528698932@qq.com
 superuser: false
 user_groups:
-  - 2018级
+  - 毕业生
 ---
 邮箱：1528698932@qq.com
