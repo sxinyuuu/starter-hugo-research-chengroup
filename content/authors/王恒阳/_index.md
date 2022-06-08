@@ -1,5 +1,5 @@
 ---
-title: 王恒阳
+title: 王恒阳（18级）
 role: 测绘工程
 social:
   - display:
@@ -10,6 +10,6 @@ social:
 email: 1368651181@qq.com
 superuser: false
 user_groups:
-  - 2018级
+  - 毕业生
 ---
 邮箱：1368651181@qq.com
