@@ -1,5 +1,5 @@
 ---
-title: 徐雅梦
+title: 徐雅梦（19级）
 role: 测绘工程
 bio: ""
 interests:
@@ -13,6 +13,6 @@ social:
 email: 767306336@qq.com
 superuser: false
 user_groups:
-  - 2019级
+  - 毕业生
 ---
 邮箱：767306336@qq.com
