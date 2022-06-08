@@ -2,7 +2,7 @@
 title: 梅永康
 role: 测绘工程
 interests:
-  - 热红外数据处理与多维数据融合算法研究
+  - 星载激光雷达波形数据研究
 social:
   - display:
       header: false
@@ -12,6 +12,6 @@ social:
 email: 362151647@qq.com
 superuser: false
 user_groups:
-  - 2019级
+  - 毕业生
 ---
 邮箱：362151647@qq.com
