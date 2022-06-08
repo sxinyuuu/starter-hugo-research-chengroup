@@ -17,6 +17,8 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - 老师
+  - 2022级
+  - 2021级
   - 2020级
   - 2019级
   - 2018级
