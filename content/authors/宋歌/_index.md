@@ -1,5 +1,5 @@
 ---
-title: 宋歌
+title: 宋歌（19级）
 role: 测绘工程
 bio: 典型资源环境要素识别提取与定量遥感技术
 social:
@@ -10,6 +10,6 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - 2019级
+  - 毕业生
 ---
 联系方式：736293416@qq.com
