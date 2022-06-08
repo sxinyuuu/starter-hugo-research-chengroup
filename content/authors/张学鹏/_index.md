@@ -1,5 +1,5 @@
 ---
-title: 张学鹏
+title: 张学鹏（19级）
 role: 大地测量学与测量工程
 interests:
   - 典型资源环境要素识别提取与定量遥感技术
@@ -12,6 +12,6 @@ social:
 email: 996588861@qq.com
 superuser: false
 user_groups:
-  - 2019级
+  - 毕业生
 ---
 邮箱：996588861@qq.com
