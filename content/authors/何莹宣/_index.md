@@ -11,5 +11,5 @@ social:
 email: jiao970924@126.com
 superuser: false
 user_groups:
-  - 2021级
+  - 2022级
 ---
