@@ -1,5 +1,5 @@
 ---
-title: 梅永康
+title: 梅永康（19级）
 role: 测绘工程
 interests:
   - 星载激光雷达波形数据研究
