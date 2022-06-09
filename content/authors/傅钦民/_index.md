@@ -1,5 +1,5 @@
 ---
-title: 傅钦民
+title: 傅钦民（18级）
 role: 测绘工程
 social:
   - display:
@@ -10,7 +10,7 @@ social:
 email: envelope
 superuser: false
 user_groups:
-  - 2018级
+  - 毕业生
 ---
 邮箱：fuqinmin@gmail.com
 
