@@ -1,6 +1,6 @@
 ---
 title: 吕鑫
-role: 测绘工程
+role: 测绘科学与技术
 
 social:
   - display:
