@@ -1,5 +1,5 @@
 ---
-title: 中文期刊
+title: 外文
 publication_types:
   - "2"
 authors:
