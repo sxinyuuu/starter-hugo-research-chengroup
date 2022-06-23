@@ -1,4 +1,17 @@
-
+---
+title: 中文期刊
+publication_types:
+  - "2"
+authors:
+  - 陈伟
+publication: false
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2021-09-08T02:24:49.462Z
 ---
 [1].	梅永康, 谢俊峰*, 陈伟, 刘仁. 多特征参数约束的星载激光高程控制点提取[J]. 红外与激光工程. 2022. (已接收)
 [2].	张学鹏, 张凤娇, 陈伟*, 等. 云贵高原地区生态系统服务价值时空变化特征[J]. 测绘通报.2022.（已接收）
