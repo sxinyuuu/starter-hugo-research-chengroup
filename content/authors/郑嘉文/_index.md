@@ -1,6 +1,6 @@
 ---
 title: 郑嘉文
-role: 遥感科学与技术
+role: 测绘科学与技术
 
 social:
   - display:
