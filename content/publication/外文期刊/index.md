@@ -13,6 +13,8 @@ image:
   preview_only: false
 date: 2021-09-08T02:24:49.462Z
 ---
+目前已有外文论文39篇，具体如下：
+
 [1].	CHEN Wei*, ZHANG Fengjiao, ZHU Yujiao, YANG Lan, BI Pengshuai. Analysis of the impact of multiscale green landscape on urban PM2.5[J]. Air Quality Atmosphere and Health. 2022. DOI: 10.1007/s11869-022-01153-8. (Published Online).
 
 [2].	LI Guangchao, CHEN Wei*, MU Liqiang, ZHANG Xuepeng, BI Pengshuai, WANG Zhe, YANG Zhen. Analysis and prediction of global vegetation dynamics: past variations and future perspectives[J]. Journal of Forestry Research. 2022. DOI: 10.1007/s11676-022-01491-4.
