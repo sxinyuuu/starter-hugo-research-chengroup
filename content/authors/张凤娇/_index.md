@@ -1,7 +1,7 @@
 ---
 title: 张凤娇
 role: 大地测量学与测量工程
-bio: 定量遥感
+bio: 个人网站：zhangfengjiao.cn
 social:
   - display:
       header: false
