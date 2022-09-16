@@ -5,7 +5,8 @@ bio: 个人网站：zhangfengjiao.cn
 social:
   - display:
       header: false
-    link: jiao970924@126.com
+    link:个人网站：zhangfengjiao.cn
+
     icon_pack: fas
     icon: envelope
 email: jiao970924@126.com
