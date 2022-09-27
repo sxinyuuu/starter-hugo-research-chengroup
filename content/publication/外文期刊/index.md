@@ -19,9 +19,9 @@ date: 2021-09-08T02:24:49.462Z
 
 [2].	LI Guangchao, CHEN Wei*, ZHANG Xuepeng, YANG Zhen, WANG Zhe, BI Pengshuai. Spatiotemporal changes and driving factors of vegetation in 14 different climatic regions in the global from 1981 to 2018[J]. Environmental Science and Pollution Research.2. DOI: 10.1007/s11356-022-21138-5. (Published Online).
 
-[3].	BI Hongru, CHEN Wei, LI Jun*, GUO Junting, SHE Changchao. Modeling impacts of mining activity-induced landscape change on local climate[J]. Environmental Science and Pollution Research. 2022. DOI: 10.1007/s11356-022-20470-0. (Published Online).
+[3].	BI Hongru, CHEN Wei, LI Jun*, GUO Junting, SHE Changchao. Modeling impacts of mining activity-induced landscape change on local climate[J]. Environmental Science and Pollution Research. 2022. DOI: 10.1007/s11356-022-20470-0. 
 
-[4].	SHI Xinyu, BAI Shuang, CHEN Wei*. Remote sensing of water use efficiency in Southwest China’s karst area[J]. Environmental Science and Pollution Research. 2022. DOI: 10.1007/s11356-022-20907-6. (Published Online).
+[4].	SHI Xinyu, BAI Shuang, CHEN Wei*. Remote sensing of water use efficiency in Southwest China’s karst area[J]. Environmental Science and Pollution Research. 2022. DOI: 10.1007/s11356-022-20907-6.
 
 [5].	CHEN Wei*, ZHANG Fengjiao, ZHU Yujiao, YANG Lan, BI Pengshuai. Analysis of the impact of multiscale green landscape on urban PM2.5[J]. Air Quality Atmosphere and Health. 2022. DOI: 10.1007/s11869-022-01153-8.
 
