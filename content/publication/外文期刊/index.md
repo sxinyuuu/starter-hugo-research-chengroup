@@ -13,7 +13,7 @@ image:
   preview_only: false
 date: 2021-09-08T02:24:49.462Z
 ---
-目前已有外文论文39篇，具体如下：
+目前已有外文论文40篇，具体如下：
 [1].  BI Pengshuai, WANG Dongliang, CHEN Wei, YANG Lan, LIANG Jian, LI Guangchao, ZHANG Fengjiao, WANG Zhe, ZHANG Xuepeng. Image dehazing based on polarization information and deep prior learning[J]. Optik. 2022. DOI: 10.1016/j.ijleo.2022.169746. (Published Online).
 
 [2].	LI Guangchao, CHEN Wei*, MU Liqiang, ZHANG Xuepeng, BI Pengshuai, WANG Zhe, YANG Zhen. Analysis and prediction of global vegetation dynamics: past variations and future perspectives[J]. Journal of Forestry Research. 2022. DOI: 10.1007/s11676-022-01491-4. (Published Online).
