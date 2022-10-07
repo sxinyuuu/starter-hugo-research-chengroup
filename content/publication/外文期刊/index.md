@@ -93,4 +93,3 @@ date: 2021-09-08T02:24:49.462Z
 [39].	CHEN Wei*, TANG Hongzhao, ZHAO Haimeng. Diurnal, weekly and monthly spatial variations of air pollutants and air quality of Beijing[J]. Atmospheric Environment. 2015, 119, 21-34. DOI: 10.1016/j.atmosenv.2015.08.040.
 
 [40].	CHEN Wei*, ZHAO Haimeng, LI Zhanqing, JING Xin, YAN Lei. Uncertainty Evaluation of an In-Flight Absolute Radiometric Calibration Using a Statistical Monte Carlo Method[J]. IEEE Transactions on Geoscience and Remote Sensing. 2015, 53(5), 2925-2934. DOI: 10.1109/tgrs.2014.2366779.
-
