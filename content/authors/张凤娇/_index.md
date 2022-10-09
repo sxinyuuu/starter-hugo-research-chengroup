@@ -1,11 +1,9 @@
 ---
 title: 张凤娇
 role: 大地测量学与测量工程
-bio: 
 social:
   - display:
       header: false
-    link:个人网站：zhangfengjiao.cn
 
     icon_pack: fas
     icon: envelope
