@@ -13,7 +13,8 @@ image:
   preview_only: false
 date: 2021-09-08T02:24:49.462Z
 ---
-目前已有外文论文40篇，具体如下：
+目前已有外文论文41篇，具体如下：
+
 [1].  BI Pengshuai, WANG Dongliang, CHEN Wei, YANG Lan, LIANG Jian, LI Guangchao, ZHANG Fengjiao, WANG Zhe, ZHANG Xuepeng. Image dehazing based on polarization information and deep prior learning[J]. Optik. 2022. DOI: 10.1016/j.ijleo.2022.169746. (Published Online).
 
 [2].	LI Guangchao, CHEN Wei*, MU Liqiang, ZHANG Xuepeng, BI Pengshuai, WANG Zhe, YANG Zhen. Analysis and prediction of global vegetation dynamics: past variations and future perspectives[J]. Journal of Forestry Research. 2022. DOI: 10.1007/s11676-022-01491-4. (Published Online).
@@ -22,7 +23,7 @@ date: 2021-09-08T02:24:49.462Z
 
 [4].	BI Hongru, CHEN Wei, LI Jun*, GUO Junting, SHE Changchao. Modeling impacts of mining activity-induced landscape change on local climate[J]. Environmental Science and Pollution Research. 2022. DOI: 10.1007/s11356-022-20470-0. 
 
-[5].	SHI Xinyu, BAI Shuang, CHEN Wei*. Remote sensing of water use efficiency in Southwest China’s karst area[J]. Environmental Science and Pollution Research. 2022. DOI: 10.1007/s11356-022-20907-6.
+[5].	SHI Xinyu, BAI Shuang, CHEN Wei*. Remote sensing of water use efficiency in Southwest China’s karst area[J]. Environmental Science and Pollution Research. 2022,29:71166–71178. DOI: 10.1007/s11356-022-20907-6.
 
 [6].	CHEN Wei*, ZHANG Fengjiao, ZHU Yujiao, YANG Lan, BI Pengshuai. Analysis of the impact of multiscale green landscape on urban PM2.5[J]. Air Quality Atmosphere and Health. 2022. DOI: 10.1007/s11869-022-01153-8.
 
