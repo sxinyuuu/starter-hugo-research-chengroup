@@ -15,12 +15,15 @@ date: 2021-09-08T02:24:49.462Z
 ---
 目前已有外文论文41篇，具体如下：
 
+[1].  Chen, Wei, Guangchao Li, Dongliang Wang*, Zhen Yang, Zhe Wang, Xuepeng Zhang, Bo Peng, Pengshuai Bi, and Fengjiao Zhang. Influence of the ecosystem conversion process on the carbon and water cycles in different regions of China[J]. Ecological Indicators. 2023. DOI: 10.1016/j.ecolind.2023.110040.
 
-[1].	LI Guangchao, CHEN Wei*, MU Liqiang, ZHANG Xuepeng, BI Pengshuai, WANG Zhe, YANG Zhen. Analysis and prediction of global vegetation dynamics: past variations and future perspectives[J]. Journal of Forestry Research. 2022. DOI: 10.1007/s11676-022-01491-4. (Published Online).
+[2].  WANG Qingpeng, CHEN Wei*, TANG Hongzhao, PAN Xubin, ZHAO Haimeng, YANG Bin, ZHANG Honggeng, GU Wenzhu. Simultaneous extracting area and quantity of agricultural greenhouses in large scale with deep learning method and high-resolution remote sensing images[J]. Science of The Total Environment, 2023: 162229.
 
-[2].	LI Guangchao, CHEN Wei*, ZHANG Xuepeng, YANG Zhen, WANG Zhe, BI Pengshuai. Spatiotemporal changes and driving factors of vegetation in 14 different climatic regions in the global from 1981 to 2018[J]. Environmental Science and Pollution Research.2. DOI: 10.1007/s11356-022-21138-5. (Published Online).
+[3].	LI Guangchao, CHEN Wei*, MU Liqiang, ZHANG Xuepeng, BI Pengshuai, WANG Zhe, YANG Zhen. Analysis and prediction of global vegetation dynamics: past variations and future perspectives[J]. Journal of Forestry Research. 2022. DOI: 10.1007/s11676-022-01491-4. (Published Online).
 
-[3].  BI Pengshuai, WANG Dongliang, CHEN Wei, YANG Lan, LIANG Jian, LI Guangchao, ZHANG Fengjiao, WANG Zhe, ZHANG Xuepeng. Image dehazing based on polarization information and deep prior learning[J]. Optik. 2022. DOI: 10.1016/j.ijleo.2022.169746. 
+[4].	LI Guangchao, CHEN Wei*, ZHANG Xuepeng, YANG Zhen, WANG Zhe, BI Pengshuai. Spatiotemporal changes and driving factors of vegetation in 14 different climatic regions in the global from 1981 to 2018[J]. Environmental Science and Pollution Research.2. DOI: 10.1007/s11356-022-21138-5. (Published Online).
+
+[5].  BI Pengshuai, WANG Dongliang, CHEN Wei, YANG Lan, LIANG Jian, LI Guangchao, ZHANG Fengjiao, WANG Zhe, ZHANG Xuepeng. Image dehazing based on polarization information and deep prior learning[J]. Optik. 2022. DOI: 10.1016/j.ijleo.2022.169746. 
 
 [4].	BI Hongru, CHEN Wei, LI Jun*, GUO Junting, SHE Changchao. Modeling impacts of mining activity-induced landscape change on local climate[J]. Environmental Science and Pollution Research. 2022. DOI: 10.1007/s11356-022-20470-0. 
 
