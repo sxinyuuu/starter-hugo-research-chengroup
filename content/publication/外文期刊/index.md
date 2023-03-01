@@ -13,7 +13,7 @@ image:
   preview_only: false
 date: 2021-09-08T02:24:49.462Z
 ---
-目前已有外文论文41篇，具体如下：
+目前已有外文论文43篇，具体如下：
 
 [1].  Chen, Wei, Guangchao Li, Dongliang Wang*, Zhen Yang, Zhe Wang, Xuepeng Zhang, Bo Peng, Pengshuai Bi, and Fengjiao Zhang. Influence of the ecosystem conversion process on the carbon and water cycles in different regions of China[J]. Ecological Indicators. 2023. DOI: 10.1016/j.ecolind.2023.110040.
 
